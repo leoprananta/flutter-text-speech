@@ -2,7 +2,8 @@
 
 A new Flutter project.
 
-![Screenshot](screenshoot/voice.png)
+![Screenshot](https://github.com/leoprananta/flutter-text-speech/blob/master/screenshoot/Voice.png)
+![Screenshot](https://github.com/leoprananta/flutter-text-speech/blob/master/screenshoot/Text.png)
 
 ## Getting Started
 
